@@ -64,9 +64,7 @@ genome_names_file : is a text file containing genome_number and genome_name sepe
 
 fasta_names_file :  is a text file containing paths to FASTA files; each in one line.
 
-gff_names_file :    is a text file containing paths to GFF files corresponding to the stored genomes,
-
-                    in the same order. Missing annotations are shown by an empty line.
+gff_names_file :    is a text file containing paths to GFF files corresponding to the stored genomes in the same order. Missing annotations are shown by an empty line.
                     
 annotation_records :is a text file containing annotation titles as they appear in gff file.
 
